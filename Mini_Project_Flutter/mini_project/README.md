@@ -1,8 +1,10 @@
-# mini_project
+# Aplikasi Order Food/ Memesan Makanan
 
-Saya Membuat Mini Project Mengenai Tentang Pemesanan Makanan Dimana dibutuhkan pada suatu Rumah Makanan beranah hanya untuk pelayan dan pelanggan untuk memesan makanan
+Saya Membuat Mini Project Mengenai Tentang Pemesanan Makanan Dimana dibutuhkan pada suatu Rumah Makanan beranah hanya untuk pelayan dan pelanggan untuk memesan makanan, saya membuat menggunakan Flutter yang dimana dapat diakses baik mobile , website , dan desktop yang merupakan crossplatform untuk database nya saya menggunakan fire base berikut URL dari file .dart : 
 
-## Getting Started
+[URL File.dart](https://github.com/fradricast/Mini_Project-App-Food-Ordering/tree/main/Mini_Project_Flutter/mini_project/lib)
+
+## Tahap Mulainya Aplikasi
 Tampilan awal apabila tampilan digunakan yakni akan menampilkan welcome Screen berikut tampilan awalnya :
 ![icon](https://github.com/fradricast/Mini_Project-App-Food-Ordering/blob/main/Mini_Project_Flutter/Screenshots/welcomeScreen.png)
 
@@ -47,7 +49,7 @@ Dan sesudah itu User dapat memilih button add To cart yang artinya membawa menu 
 
 ![icon](https://github.com/fradricast/Mini_Project-App-Food-Ordering/blob/main/Mini_Project_Flutter/Screenshots/keranjang2.png)
 
-Sesudah itu User dapat mengklik dari tombol pesan yang akan mereset pesanan dan memulai pesanan baru lagi
+Sesudah itu User dapat mengklik dari tombol pesan yang akan mereset pesanan dan memulai pesanan baru lagi dan diarahkan kepada tampilan awal
 
 
 Selain Layout saya juga membuat Unit Testing mengenai Testing dari Firebase Provider yang saya buat mulai dari Testing untuk Kategori , List Menu dan , List menu pada keranjang menggunakan Mocking berikut tampilannya 
